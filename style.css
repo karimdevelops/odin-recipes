@@ -1,18 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Yeseva+One&display=swap');
 
 
 * {
     background-color: #6d372e;
     color: white;
-    font-family: "Roboto";
 }
 
 h1 {
     font-size: 55px;
-    text-decoration: underline;
+    font-family: "Great Vibes";
+    /* text-decoration: underline; */
     text-align: center;
+    border: 8px solid #e8ae2a;
 }
 
 p {
     font-size: 30px;
+    font-family:"Roboto";
+}
+
+li {
+    font-family:Arial, Helvetica, sans-serif;
 }

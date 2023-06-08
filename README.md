@@ -8,7 +8,7 @@ Are you worried about your cooking skills? Is it hard to make good food? Are you
 
 In order to view our recipes, follow the steps given below:  
   
-1. Head over to our website by <a href="https://github.com/karimdevelops/karim-recipes" target="_blank">clicking here</a>
+1. Head over to our website by <a href="https://karimdevelops.github.io/karim-recipes/" target="_blank">clicking here</a>
 2. Select a recipe from the given list of recipes.
 3. Read the ingredients and steps carefully.
 4. Enjoy!

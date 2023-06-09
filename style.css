@@ -4,27 +4,27 @@
 
 
 * {
-    background-color: #6d372e;
-    color: white;
+  background-color: #6d372e;
+  color: white;
 }
 
 h1 {
-    font-size: 55px;
-    font-family: "Great Vibes";
-    /* text-decoration: underline; */
-    text-align: center;
-    border: 8px solid #e8ae2a;
+  font-size: 55px;
+  font-family: "Great Vibes";
+  /* text-decoration: underline; */
+  text-align: center;
+  border: 8px solid #e8ae2a;
 }
 
 p {
-    font-size: 30px;
-    font-family:"Roboto";
+  font-size: 30px;
+  font-family:"Roboto";
 }
 
 li {
-    font-family:Arial, Helvetica, sans-serif;
+  font-family:Arial, Helvetica, sans-serif;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }

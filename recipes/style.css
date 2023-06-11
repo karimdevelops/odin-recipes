@@ -35,6 +35,10 @@ li {
   line-height: 50px;
 }
 
+ul {
+  list-style-type:square
+}
+
 .ingredient-steps {
   text-align: center;
   text-decoration: underline;

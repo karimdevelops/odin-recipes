@@ -34,3 +34,13 @@ img {
 li {
   line-height: 50px;
 }
+
+.ingredient-steps {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 28px;
+}
+
+p {
+  margin-left: 20px;
+}

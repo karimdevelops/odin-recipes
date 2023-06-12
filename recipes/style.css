@@ -2,11 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Yeseva+One&display=swap');
 
 body {
-  background-color: #e1b382;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 24px;
-  outline: 27px solid #6E260E;
-  margin: 120px;
+  background-image: url("../imgs/background.jpg");  
 }
 
 h1 {
@@ -49,4 +47,10 @@ ul {
 
 p {
   margin-left: 20px;
+}
+
+.recipe {
+  background-color: #e1b382;
+  margin: 120px;
+  outline: 27px solid #6E260E;
 }

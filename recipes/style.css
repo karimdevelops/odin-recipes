@@ -24,8 +24,8 @@ h2 {
 }
 
 img {
-  width: 350px;
-  height: auto;
+  width: auto;
+  height: 250px;
 }
 
 .introduction {
@@ -46,6 +46,7 @@ ul {
   text-align: center;
   text-decoration: underline;
   font-size: 28px;
+  color: rgb(163, 0, 0);
 }
 
 p {

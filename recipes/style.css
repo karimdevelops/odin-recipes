@@ -12,6 +12,7 @@ h1 {
   font-size: 40px;
   text-decoration: underline;
   color: #6E260E;
+  margin-left: 10px;
 }
 
 h2 {
@@ -58,4 +59,8 @@ p {
   background-color: #e1b382;
   margin: 120px;
   outline: 27px solid #6E260E;
+}
+
+.image {
+  text-align: center;
 }

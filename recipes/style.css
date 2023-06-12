@@ -19,7 +19,8 @@ h2 {
   font-family: "Roboto";
   text-align: center;
   font-size: 33px;
-  border: 5px solid black;
+  border-top: 9px solid #6E260E;
+  border-bottom: 9px solid #6E260E;
 }
 
 img {

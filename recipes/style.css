@@ -33,6 +33,8 @@ img {
 
 li {
   line-height: 50px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-left: 2%;
 }
 
 ul {
@@ -47,6 +49,7 @@ ul {
 
 p {
   margin-left: 20px;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .recipe {

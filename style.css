@@ -12,7 +12,9 @@ h1 {
   font-size: 55px;
   font-family: "Great Vibes";
   /* text-decoration: underline; */
-  text-align: center;
+  display: inline-block;
+  margin-left: 40%;
+  padding: 1%;
   outline: 12px double #e8ae2a;
 }
 

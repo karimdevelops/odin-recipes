@@ -32,4 +32,5 @@ a {
 img {
   width: "auto"; 
   height: 100px;
+  outline: 8px black solid;
 }

@@ -13,7 +13,7 @@ h1 {
   font-family: "Great Vibes";
   /* text-decoration: underline; */
   text-align: center;
-  border: 8px solid #e8ae2a;
+  outline: 12px double #e8ae2a;
 }
 
 p {

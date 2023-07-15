@@ -2,37 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Yeseva+One&display=swap');
 
-
-* {
-  background-color: #6d372e;
-  color: white;
-}
-
-h1 {
-  font-size: 55px;
-  font-family: "Great Vibes";
-  /* text-decoration: underline; */
-  display: inline-block;
-  margin-left: 40%;
-  padding: 1%;
-  outline: 12px double #e8ae2a;
-}
-
-p {
-  font-size: 24px;
-  font-family:"Roboto";
-}
-
-li {
-  font-family:Arial, Helvetica, sans-serif;
-}
-
-a {
-  text-decoration: none;
-}
-
-img {
-  width: "auto"; 
-  height: 100px;
-  outline: 8px black solid;
+body {
+  background-color: #F8F3D4;
 }

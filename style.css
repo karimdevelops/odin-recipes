@@ -1,7 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Yeseva+One&display=swap');
 
 body {
   background-color: #F8F3D4;
+}
+
+.title {
+  font-size: 130px;
+  margin: 170px 0 0 120px;
+  border-top: #1A5D1A 15px double;
+  display: inline-block;
+  font-family: Arial, sans-serif;
+}
+
+.title-two {
+  margin-left: 95px;
 }

@@ -19,13 +19,14 @@ body {
 .recipes-table {
   background-color: #1A5D1A;
   margin-top: 120px;
+  padding: 200px;
 }
 
-li {
+ul.recipes li{
   display: inline-block;
-  margin: 80px;
   border: solid 5px #F1C93B;
   background-color: #FAE392;
+  margin: 12px;
 }
 
 img {

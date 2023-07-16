@@ -37,8 +37,10 @@ ul.recipes li{
 }
 
 img {
-  width: 300px;
-  height: auto;
+  width: auto;
+  height: 200px;
+  display: block;
+  margin: 15px auto 0;
 }
 
 a {

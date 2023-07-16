@@ -41,6 +41,8 @@ img {
   height: 200px;
   display: block;
   margin: 15px auto 0;
+  border: #1A5D1A 10px double;
+  border-radius: 55px;
 }
 
 a {

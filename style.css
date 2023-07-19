@@ -32,13 +32,13 @@ body {
 ul.recipes {
   display: flex;
   margin-right: 100px;
+  gap: 30px;
 }
 
 ul.recipes li{
   flex: 1;
   border: solid 5px #F6416C;
   background-color: #FFDE7D;
-  margin: 5px;
   padding: 12px;
   width: 300px;
   list-style: none;

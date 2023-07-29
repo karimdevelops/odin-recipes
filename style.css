@@ -111,3 +111,20 @@ button:hover {
   font-size: 25px;
   border-width: 5px;
 }
+
+div.why-us {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #F9ED69;
+}
+
+div.why-us h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkslategray;
+}
+
+.trophy {
+  font-size: 50px;
+}
